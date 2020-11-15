@@ -6,4 +6,21 @@ table, th, td {
     border-spacing: 3px;
     padding: 3px;
   }
+body {
+    background-image: url('img/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+#content {
+    margin: auto;
+    width: 70%;
+    background-color: lightgray;
+}
+#profilePic {
+    float: right;
+}
+#name {
+    align-content: center;
+}
   
