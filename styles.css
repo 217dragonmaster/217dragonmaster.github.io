@@ -1,3 +1,9 @@
+* {
+    font-family: sans-serif, Arial, Helvetica;
+}
 table, th, td {
     border: 1px solid black;
+    border-spacing: 3px;
+    padding: 3px;
   }
+  
