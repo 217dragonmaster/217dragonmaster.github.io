@@ -5,7 +5,11 @@ table, th, td {
     border: 1px solid black;
     border-spacing: 3px;
     padding: 3px;
-  }
+}
+table {
+      width: 100%;
+      table-layout: fixed;
+}
 body {
     background-image: url('img/background.jpg');
     background-repeat: no-repeat;
@@ -22,5 +26,17 @@ body {
 }
 #name {
     align-content: center;
+}
+.work {
+    color: red;
+}
+.Japanese {
+    color: royalblue;
+}
+.CompNet {
+    color: yellow;
+}
+.WebDev {
+    color: teal;
 }
   
