@@ -20,9 +20,11 @@ body {
     margin: auto;
     width: 70%;
     background-color: lightgray;
+    border-radius: 25px;
 }
 #profilePic {
     float: right;
+    border-radius: 25px;
 }
 #name {
     align-content: center;
